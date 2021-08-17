@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently studying Node.js by private projects.
 - 🌱 I'd like help people and learning news things.
 - 👯 I’m looking to collaborate on Open-source projects.
 - 💬 Ask me about JS, Redux, React.
