@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🌱 I'd like help people and learning news things.
+- 🌱 I like to help people and learning news things.
 - 👯 I’m looking to collaborate on Open-source projects.
 - 💬 Ask me about JS, Redux, React.
 
