@@ -1,4 +1,4 @@
-### Hi. Who am I ? 👋
+### Who am I ? 👋
 
 <!--
 **becauro/becauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,11 +7,32 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on private projects.
-- 🌱 I’m currently learning Node.js in Back-end side with MySQL an MongoDB.
+- 🔭 I’m currently studying Node.js by private projects.
+- 🌱 I1d like help people and learning news things.
 - 👯 I’m looking to collaborate on Open-source projects.
-- 🤔 I’m looking for help wit, among ohter things, a way to build safer codes.
-- 💬 Ask me about JS, Redux, React and Cyber Security (a little) informations (No big deal at all).
-- 📫 How to reach me: if you dont mind, look at under my profile photo. ;-)
-- 😄 Pronouns: He/His.
-- ⚡ Fun fact: Sometimes I few like Batman. Except that I only walk through "VSCode streets" darkness most time.
+- 💬 Ask me about JS, Redux, React.
+
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=becauro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <!--
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=becauro&layout=compact&langs_count=7&theme=dark"/>
+  -->
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Redux Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" alt="C Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Linux Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href = "mailto:michelbecauro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/becauro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+
