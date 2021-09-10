@@ -14,7 +14,7 @@ Here are some ideas to get you started:
  Fun fact: I'm a musician (singer, piano, eletrict guitar etc...)
 - ![image](https://user-images.githubusercontent.com/61303294/132925897-b5f8aafb-1ad3-49ca-a963-a913acdb2df5.png)
 A play soccer and volleyball, but I'm a "retired" player for now.
-
+ <br /><br /> <br /><br />
  <div>
   <a href="https://github.com/becauro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=becauro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -22,7 +22,6 @@ A play soccer and volleyball, but I'm a "retired" player for now.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=becauro&layout=compact&langs_count=7&theme=dark"/>
   -->
 </div>
- <br /><br /> <br /><br /> <br /><br />
 <div style="display: inline_block"><br>
   <a href="https://en.wikipedia.org/wiki/HTML5" title="HTML5"><img align="center" alt="HTML Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://en.wikipedia.org/wiki/CSS#CSS_3" title="CSS3"><img align="center" alt="CSS Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
