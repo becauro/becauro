@@ -21,7 +21,7 @@ A play soccer and volleyball, but I'm a "retired" player for now.
   <!--
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=becauro&layout=compact&langs_count=7&theme=dark"/>
   -->
-<br/><br/>
+<br /><br />
 </div>
 <div style="display: inline_block"><br>
   <a href="https://en.wikipedia.org/wiki/HTML5" title="HTML5"><img align="center" alt="HTML Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
