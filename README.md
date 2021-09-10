@@ -27,6 +27,8 @@ Here are some ideas to get you started:
   <img align="center" alt="C Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Linux Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="mysql Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/nodejs/nodejs.png" height="100">
+
 </div>
   
   ##
