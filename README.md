@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - ![image](https://user-images.githubusercontent.com/61303294/132919030-22182287-a052-4c54-b032-ab2bfca12267.png)
  I like to help people, searching and learning new things.
-- ![image](https://user-images.githubusercontent.com/61303294/132919858-e4aee119-1f7f-47fa-a5d6-3c451b525a41.png)I’m looking to collaborate on Open-source projects.
+- ![image](https://user-images.githubusercontent.com/61303294/132921493-df35e8d4-daa2-4c40-a513-59aaffc996a7.png)I’m looking to collaborate on Open-source projects.
 - ![image](https://user-images.githubusercontent.com/61303294/132919501-33cd0e2d-69dd-43dc-ab71-0f0a0244f980.png)
  Fun fact: I'm a musician (singer, piano, eletrict guitar etc...)
 
