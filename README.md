@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ![image](https://user-images.githubusercontent.com/61303294/132923036-e8dea2a2-736e-492d-b781-538a5ad642dd.png)
  Fun fact: I'm a musician (singer, piano, eletrict guitar etc...)
 - ![image](https://user-images.githubusercontent.com/61303294/132925897-b5f8aafb-1ad3-49ca-a963-a913acdb2df5.png)
-A play soccer and volleyball, but I'm a "retired" player for now.
+I play soccer and volleyball, but I'm kind of "retired" for now.
  <br /><br /> <br /><br />
  <div>
   <a href="https://github.com/becauro">
