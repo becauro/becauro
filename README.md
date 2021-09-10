@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- ![image](https://user-images.githubusercontent.com/61303294/132919030-22182287-a052-4c54-b032-ab2bfca12267.png)
+- ![image](https://user-images.githubusercontent.com/61303294/132922866-bde09623-2a0c-444d-a2ca-bac24b2fdfa5.png)
  I like to help people, searching and learning new things.
 - ![image](https://user-images.githubusercontent.com/61303294/132922517-6d946203-e654-4e9c-9508-e1b9fbb4c46e.png)I’m looking to collaborate on Open-source projects.
 - ![image](https://user-images.githubusercontent.com/61303294/132919501-33cd0e2d-69dd-43dc-ab71-0f0a0244f980.png)
