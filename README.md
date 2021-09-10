@@ -11,9 +11,9 @@ Here are some ideas to get you started:
  I like helping people, searching and learning new things.
 - ![image](https://user-images.githubusercontent.com/61303294/132922517-6d946203-e654-4e9c-9508-e1b9fbb4c46e.png)I’m looking for collaborate on Open-source projects.
 - ![image](https://user-images.githubusercontent.com/61303294/132923036-e8dea2a2-736e-492d-b781-538a5ad642dd.png)
- Fun fact: I'm a musician (singer, piano, eletrict guitar etc...)
+ I'm a musician (singer, piano, eletrict guitar etc...)
 - ![image](https://user-images.githubusercontent.com/61303294/132925897-b5f8aafb-1ad3-49ca-a963-a913acdb2df5.png)
-I play soccer and volleyball, but I'm kind of "retired" for now.
+Fun fact: I play soccer and volleyball, but I'm kind of "retired" for now.
  <br /><br /> <br /><br />
  <div>
   <a href="https://github.com/becauro">
