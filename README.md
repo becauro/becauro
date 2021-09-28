@@ -32,6 +32,7 @@ Fun fact: I play soccer and volleyball, but I'm kind of "retired" for now.
   <a href="https://redux.js.org/" title="Redux"><img align="center" alt="Redux Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></a>
   <a href="https://www.debian.org/index.en.html" title="Debian"><img align="center" alt="Linux Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>
   <a href="https://www.mysql.com/" title="MySQL"><img align="center" alt="mysql Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
+ <a href="https://www.mongodb.com/" title="MongoDB"><img align="center" alt="mongodb Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></a>
  <a href="https://git-scm.com/" title="Git"><img align="center" alt="git Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
  <a href="https://code.visualstudio.com/" title="VSCode"><img align="center" alt="vscode Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a>
 </div>
