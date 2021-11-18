@@ -52,8 +52,8 @@ Here are some ideas to get you started:
    Nesta [Wiki](https://github.com/becauro/becauro/wiki) é onde estou agrupando os **projetos do meu portfolio**. 
    Está em fase de organização ainda, mas já recomendo acessar.
    
-   Caso não acesse pela Wiki, considere pelo menos que, referente aos repositórios que começam com nome "sd-011", para visualizar OS MEUS projetos, precisar filtrar pela branch que comece com o meu nome: "michel-pereira".
-   O motivo disso está explicado na própria [Wiki](https://github.com/becauro/becauro/wiki).
+   Caso não acesse pela Wiki, considere pelo menos que, referente aos repositórios que começam com nome "sd-011", para visualizar **os projetos eu fiz**, precisa filtrar pela branch que comece com o meu nome: "michel-pereira".
+   O motivo disso está explicado na [Wiki](https://github.com/becauro/becauro/wiki) anteriormente mencionada.
    
 ---
 
