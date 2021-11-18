@@ -1,4 +1,4 @@
-### printf("Hi 👋 ...\n")
+### printf("Hi ...\n")
 
 <!--
 **becauro/becauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
