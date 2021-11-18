@@ -47,19 +47,12 @@ Here are some ideas to get you started:
  <a href="https://code.visualstudio.com/" title="VSCode"><img align="center" alt="vscode Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a>
 </div>
 
-### Aos recrutadores
+### Portfolio
    
-   Existem vários projetos que fiz pela [Trybe](https://github.com/tryber). São os repositórios que têm o nome começando com "sd-011".
+   Nesta [Wiki](https://github.com/becauro/becauro/wiki) é onde estou agrupando os projetos do meu portfolio. 
+   Está em fase de organização ainda. Mas já recomendo acessar.
    
-   Por serem fork, vieram, também, branches de todos colegas da Trybe. 
-   
-   A branch main/master não deve ser consideradas, pois contém, apenas, o Readme e alguns arquivos, ou seja, um shape do projeto me questão. 
-   
-   Portanto, nesses repositórios, para visualizar OS MEUS projetos basta pesquisar, sempre, pela branch que comece com meu nome: "michel-pereira".
-   
-   Posteriormente irei fazer um novo repositório de cada um, contendo apenas as minhas branches. 
-   
-  ##
+   Caso não acesse pela Wiki, considere pelo menos que, referente aos repositórios que começam com nome "sd-011", para visualizar OS MEUS projetos, precisar filtrar pela branch que comece com o meu nome: "michel-pereira".
  
 <div> 
   <a href = "mailto:michelbecauro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
