@@ -49,11 +49,11 @@ Here are some ideas to get you started:
 
 ### Portfolio
    
-   Nesta [Wiki](https://github.com/becauro/becauro/wiki) é onde estou agrupando os projetos do meu portfolio. 
-   Está em fase de organização ainda. Mas já recomendo acessar.
+   Nesta [Wiki](https://github.com/becauro/becauro/wiki) é onde estou agrupando os **projetos do meu portfolio**. 
+   Está em fase de organização ainda, mas já recomendo acessar.
    
    Caso não acesse pela Wiki, considere pelo menos que, referente aos repositórios que começam com nome "sd-011", para visualizar OS MEUS projetos, precisar filtrar pela branch que comece com o meu nome: "michel-pereira".
- 
+---
 <div> 
   <a href = "mailto:michelbecauro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/becauro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
