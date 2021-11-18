@@ -48,13 +48,13 @@ Here are some ideas to get you started:
 
 ### Aos recrutadores
    
-   Existem vários projetos forkados que fiz na [Trybe](https://github.com/tryber). São projetos que têm nome de repositório sempre começando com "sd-011".
+   Existem vários projetos "forkados" que fiz na [Trybe](https://github.com/tryber). São projetos que têm nome de repositório sempre começando com "sd-011".
    
-   Por eu ter feito fork, vieram, também, as branches dos projetos de todos colegas da Trybe.
+   Então, por serem provenientes de fork, vieram, também, as branches dos projetos de todos meus colegas da Trybe.
    
-   Portanto, quando for olhar esses projetos em específicos que começam com a string "sd-011", para visualizar OS MEUS projetos, basta pesquisar, sempre, pela branch que comece com meu nome: "michel-pereira".
+   Portanto, nesses repositórios que começam com a string "sd-011", para visualizar OS MEUS projetos, basta pesquisar, sempre, pela branch que comece com meu nome: "michel-pereira".
    
-   Posteriormete irei fazer um novo repositório para vários desses projetos, porém contend, apenas, as minhas branches. 
+   Posteriormete irei fazer um novo repositório desses projetos, contendo apenas as minhas branches. 
    
   ##
  
