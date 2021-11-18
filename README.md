@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 
 ### Aos recrutadores
    
-   Existe vaŕios projetos forkados da Trybe. São porjetos que começam com "sd-011".
-   Como os forkei, vieram com as branches de todos alunos da Trybe, incluinda a minha.
-   Portanto, para olhar meu código, bata pesquisar pela branch com as iniciais "michel-pereira".
+   Existem vários projetos forkados que fiz na [Trybe](https://github.com/tryber). São projetos que começam com "sd-011".
+   Como fiz fork, vieram também as branches de todos alunos da Trybe, incluindo a minha.
+   Portanto, nesses projetos em específicos que começam com a string "sd-011", para visualizar o meu projeto, basta pesquisar sempre pela branch com as iniciais "michel-pereira".
    Posteriormete irei limpar essas branches que não são minhas. 
    
   ##
