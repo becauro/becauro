@@ -50,9 +50,12 @@ Here are some ideas to get you started:
    
    Existem vários projetos forkados que fiz na [Trybe](https://github.com/tryber). São projetos que têm nome de repositório sempre começando com "sd-011".
    
-   Por eu ter feito fork, vieram, também, as branches dos projetos de todos alunos da turma 11 da Trybe, incluindo a minha.
+   Por eu ter feito fork, vieram, também, as branches dos projetos de todos alunos da turma 11 da Trybe.
+   
    Obs.: Sim, a Trybe pede os projetos, então cada aluno (ou equipe) implementa em uma branche com seu nome e abre um PR, ao término do projeto, para que seja avaliado.
+   
    Portanto, nesses projetos em específicos que começam com a string "sd-011", para visualizar OS MEUS projetos, basta pesquisar sempre pela branch com as iniciais "michel-pereira".
+   
    Posteriormete irei fazer um novo repositório para vários desses projetos, porém contend, apenas, as minhas branches. 
    
   ##
