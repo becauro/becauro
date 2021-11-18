@@ -45,7 +45,14 @@ Here are some ideas to get you started:
  <a href="https://git-scm.com/" title="Git"><img align="center" alt="git Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
  <a href="https://code.visualstudio.com/" title="VSCode"><img align="center" alt="vscode Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a>
 </div>
-  
+
+### Aos recrutadores
+   
+   Existe vaŕios projetos forkados da Trybe. São porjetos que começam com "sd-011".
+   Como os forkei, vieram com as branches de todos alunos da Trybe, incluinda a minha.
+   Portanto, para olhar meu código, bata pesquisar pela branch com as iniciais "michel-pereira".
+   Posteriormete irei limpar essas branches que não são minhas. 
+   
   ##
  
 <div> 
