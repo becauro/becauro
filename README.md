@@ -49,13 +49,15 @@ Here are some ideas to get you started:
 
 ### Aos recrutadores
    
-   Existem vários projetos "forkados" que fiz na [Trybe](https://github.com/tryber). São projetos que têm nome de repositório sempre começando com "sd-011".
+   Existem vários projetos que fiz pela [Trybe](https://github.com/tryber). São os repositórios que têm o nome começando com "sd-011".
    
-   Então, por serem provenientes de fork, vieram, também, as branches dos projetos de todos meus colegas da Trybe.
+   Por serem fork, vieram, também, branches de todos colegas da Trybe. 
    
-   Portanto, nesses repositórios que começam com a string "sd-011", para visualizar OS MEUS projetos, basta pesquisar, sempre, pela branch que comece com meu nome: "michel-pereira".
+   A branch main/master não deve ser consideradas, pois contém, apenas, o Readme e alguns arquivos, ou seja, um shape do projeto me questão. 
    
-   Posteriormete irei fazer um novo repositório desses projetos, contendo apenas as minhas branches. 
+   Portanto, nesses repositórios, para visualizar OS MEUS projetos basta pesquisar, sempre, pela branch que comece com meu nome: "michel-pereira".
+   
+   Posteriormente irei fazer um novo repositório de cada um, contendo apenas as minhas branches. 
    
   ##
  
