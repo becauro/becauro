@@ -53,6 +53,7 @@ Here are some ideas to get you started:
    Está em fase de organização ainda, mas já recomendo acessar.
    
    Caso não acesse pela Wiki, considere pelo menos que, referente aos repositórios que começam com nome "sd-011", para visualizar OS MEUS projetos, precisar filtrar pela branch que comece com o meu nome: "michel-pereira".
+   O motivo disso está explicado na própria [Wiki](https://github.com/becauro/becauro/wiki).
    
 ---
 
