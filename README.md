@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 <!--
 - ![image](https://user-images.githubusercontent.com/61303294/132923036-e8dea2a2-736e-492d-b781-538a5ad642dd.png)
 -->
-   🎶  I'm a musician...
+   🎶  I'm(was) a musician...
 <!--
 - ![image](https://user-images.githubusercontent.com/61303294/132928117-0fed3793-0856-4317-939b-95ba22c39ec1.png)
 -->
