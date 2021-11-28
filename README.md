@@ -55,47 +55,47 @@ Here are some ideas to get you started:
 <td>
      <div>
        <b>Today</b>
-          <b>Languages</b>
-             <ul>Java Script (ES6)</ul>
-             <ul>Java</ul>
-             <ul>C / C++</ul>
-          <b>Database</b>
-             <ul> MySQL </ul>
-             <ul> MongoDB </ul>
-          <b>IDEs</b>
-             <ul>NetBeans</ul>
-             <ul>Visual Studio Code</ul>
-          <b>Frameworks / Tools</b>
-             <b>BackEnd</b>
-                <ul>Node.js</ul>
-                <ul>Express</ul>
-                <ul>JWT</ul>
-                <ul>PM2</ul>
-             <b>FrontEnd</b>
-                <ul>React</ul>
-                <ul>Redux</ul>
+          <ul>Languages</ul>
+             <li>Java Script (ES6)</li>
+             <li>Java</li>
+             <li>C / C++</li>
+          <ul>Database</ul>
+             <li> MySQL </li>
+             <li> MongoDB </li>
+          <ul>IDEs</ul>
+             <li>NetBeans</li>
+             <li>Visual Studio Code</li>
+          <ul>Frameworks / Tools</ul>
+             <ul>BackEnd</ul>
+                <li>Node.js</li>
+                <li>Express</li>
+                <li>JWT</li>
+                <li>PM2</li>
+             <ul>FrontEnd</ul>
+                <li>React</li>
+                <li>Redux</li>
     </div>
  </td>  
  <td>
      <div>
        <b>Yesterday</b>
-       <b>Languages</b>
-          <ul>Pascal</ul>
-          <ul>Delphi</ul>
-          <ul>Visual Basic</ul>
-          <ul>Java Script</ul>
-       <b>Database</b>
-          <ul> Microsoft Access </ul>
-       <b>IDEs</b>
-          <ul>Visual Studio</ul>
-          <ul>Dreamweaver</ul>
+       <ul>Languages</ul>
+          <li>Pascal</li>
+          <li>Delphi</li>
+          <li>Visual Basic</li>
+          <li>Java Script</li>
+       <ul>Database</ul>
+          <li> Microsoft Access </li>
+       <ul>IDEs</ul>
+          <li>Visual Studio</li>
+          <li>Dreamweaver</li>
     </div>
 </td>
 <td>
      <div>
        <b>Flerting</b>
-         <ul>Pentesting</ul>
-         <ul>Cybersecurity</ul>
+         <li>Pentesting</li>
+         <li>Cybersecurity</li>
     </div>
 </td>
 </tr>
