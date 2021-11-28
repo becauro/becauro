@@ -31,6 +31,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=becauro&layout=compact&langs_count=7&theme=dark"/>
   -->
 </div>
+<!--
 <div style="display: inline_block"><br>
   <a href="https://en.wikipedia.org/wiki/HTML5" title="HTML5"><img align="center" alt="HTML Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://en.wikipedia.org/wiki/CSS#CSS_3" title="CSS3"><img align="center" alt="CSS Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
@@ -45,8 +46,56 @@ Here are some ideas to get you started:
     <a href="https://expressjs.com" title="Express"><img align="center" alt="express Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></a>
  <a href="https://git-scm.com/" title="Git"><img align="center" alt="git Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
  <a href="https://code.visualstudio.com/" title="VSCode"><img align="center" alt="vscode Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a>
+-->
+   <tr>
+      <td>
+         <h2>Today</h2>
+            <h3>Languages</h3>
+               <ul>Java Script (ES6)</ul>
+               <ul>Java</ul>
+               <ul>C / C++</ul>
+            <h3>Database</h3>
+               <ul> MySQL </ul>
+               <ul> MongoDB </ul>
+            <h3>IDEs</h3>
+               <ul>NetBeans</ul>
+               <ul>Visual Studio Code</ul>
+            <h3>Frameworks / Tools</h3>
+               <h4>BackEnd</h4>
+                  <ul>Node.js</ul>
+                  <ul>Express</ul>
+                  <ul>JWT</ul>
+                  <ul>PM2</ul>
+               <h4>FrontEnd</h4>
+                  <ul>React</ul>
+                  <ul>Redux</ul>
+               </td>
+   </tr>   
+   <tr>
+      <td>
+         <h2>Yesterday</h2>
+         <h3>Languages</h3>
+            <ul>Pascal</ul>
+            <ul>Delphi</ul>
+            <ul>Visual Basic</ul>
+            <ul>Java Script</ul>
+         <h3>Database</h3>
+            <ul> Microsoft Access </ul>
+         <h3>IDEs</h3>
+            <ul>Visual Studio</ul>
+            <ul><a href="https://www.adobe.com/products/dreamweaver.html">Dreamweaver</a></ul>
+            </td>
+   </tr>
    
-<a href="https://code.visualstudio.com/" title="Pascal"><img align="center" alt="pascal Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/object-pascal/object-pascal-original.svg"></a>
+    <tr>
+      <td>
+          <h2>Flerting</h2>
+            <ul>Pentesting</ul>
+            <ul>Cybersecurity</ul>
+      </td>
+   </tr>
+      
+
 </div>
 
 ### Portfolio
