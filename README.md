@@ -55,7 +55,7 @@ Here are some ideas to get you started:
    <td></td>
    <td><b>Today</b></td>
    <td><b>Yesterday</b></td>
-   <td><b>Flerting for fun</b></td>
+   <td><b>Flirting with</b></td>
 </tr>
 <tr><td><b>Languages<b></td>
       <td> <!-- TODAY -->
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
             <li>Java Script</li>
          </ul>
       </td>
-      <td> <!-- FLERTING -->
+      <td> <!-- FLIRTING -->
          <ul>
             <li>Pentesting</li>
             <li>Cybersecurity</li>
@@ -92,7 +92,7 @@ Here are some ideas to get you started:
          <li> Microsoft Access </li>
       </ul>
    </td>
-   <td> <!-- FLERTING -->
+   <td> <!-- FLIRTING -->
       <ul>
          <li> < nothing ></li>
       </ul>
@@ -111,7 +111,7 @@ Here are some ideas to get you started:
           <li>Dreamweaver</li>
       </ul>
    </td>
-   <td> <!-- FLERTING -->
+   <td> <!-- FLIRTING -->
     <ul>
          <li> < nothing ></li>
    </ul>
@@ -141,7 +141,7 @@ Here are some ideas to get you started:
          <li>Visual Studio</li>
       </ul>
    </td>
-   <td><!-- FLERTING -->
+   <td><!-- FLIRTING -->
       <ul>
          <li> Android Studio</li>
          <li> Metasploit</li>
@@ -162,7 +162,7 @@ Here are some ideas to get you started:
    </ul>
 </td>
 
-<td><!-- FLERTING -->
+<td><!-- FLIRTING -->
    <ul>
       <li> < nothing > </li>
    </ul>
