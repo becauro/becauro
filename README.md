@@ -53,44 +53,13 @@ Here are some ideas to get you started:
 </table>
       <tr>
       <td>
-         <h2>Today</h2>
-            <h3>Languages</h3>
-               <ul>Java Script (ES6)</ul>
-               <ul>Java</ul>
-               <ul>C / C++</ul>
-            <h3>Database</h3>
-               <ul> MySQL </ul>
-               <ul> MongoDB </ul>
-            <h3>IDEs</h3>
-               <ul>NetBeans</ul>
-               <ul>Visual Studio Code</ul>
-            <h3>Frameworks / Tools</h3>
-               <h4>BackEnd</h4>
-                  <ul>Node.js</ul>
-                  <ul>Express</ul>
-                  <ul>JWT</ul>
-                  <ul>PM2</ul>
-               <h4>FrontEnd</h4>
-                  <ul>React</ul>
-                  <ul>Redux</ul>
+          algo
       </td>  
       <td>
-         <h2>Yesterday</h2>
-         <h3>Languages</h3>
-            <ul>Pascal</ul>
-            <ul>Delphi</ul>
-            <ul>Visual Basic</ul>
-            <ul>Java Script</ul>
-         <h3>Database</h3>
-            <ul> Microsoft Access </ul>
-         <h3>IDEs</h3>
-            <ul>Visual Studio</ul>
-            <ul><a href="https://www.adobe.com/products/dreamweaver.html">Dreamweaver</a></ul>
+         algo
      </td>
      <td>
-         <h2>Flerting</h2>
-           <ul>Pentesting</ul>
-           <ul>Cybersecurity</ul>
+         algo
      </td>
      </tr>
 </table>
