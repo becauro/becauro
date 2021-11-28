@@ -51,54 +51,54 @@ Here are some ideas to get you started:
 </div>
 
 </table>
-  <tr>
-     <td>
-	      <div>
-            <h2>Today</h2>
-               <h3>Languages</h3>
-                  <ul>Java Script (ES6)</ul>
-                  <ul>Java</ul>
-                  <ul>C / C++</ul>
-               <h3>Database</h3>
-                  <ul> MySQL </ul>
-                  <ul> MongoDB </ul>
-               <h3>IDEs</h3>
-                  <ul>NetBeans</ul>
-                  <ul>Visual Studio Code</ul>
-               <h3>Frameworks / Tools</h3>
-                  <h4>BackEnd</h4>
-                     <ul>Node.js</ul>
-                     <ul>Express</ul>
-                     <ul>JWT</ul>
-                     <ul>PM2</ul>
-                  <h4>FrontEnd</h4>
-                     <ul>React</ul>
-                     <ul>Redux</ul>
-         </div>
-      </td>  
-      <td>
-	      <div>
-            <h2>Yesterday</h2>
-            <h3>Languages</h3>
-               <ul>Pascal</ul>
-               <ul>Delphi</ul>
-               <ul>Visual Basic</ul>
-               <ul>Java Script</ul>
-            <h3>Database</h3>
-               <ul> Microsoft Access </ul>
-            <h3>IDEs</h3>
-               <ul>Visual Studio</ul>
-               <ul>Dreamweaver</ul>
-         </div>
-     </td>
-     <td>
-	      <div>
-            <h2>Flerting</h2>
-              <ul>Pentesting</ul>
-              <ul>Cybersecurity</ul>
-         </div>
-     </td>
-   </tr>
+<tr>
+<td>
+     <div>
+       <b>Today</b>
+          <b>Languages</b>
+             <ul>Java Script (ES6)</ul>
+             <ul>Java</ul>
+             <ul>C / C++</ul>
+          <b>Database</b>
+             <ul> MySQL </ul>
+             <ul> MongoDB </ul>
+          <b>IDEs</b>
+             <ul>NetBeans</ul>
+             <ul>Visual Studio Code</ul>
+          <b>Frameworks / Tools</b>
+             <b>BackEnd</b>
+                <ul>Node.js</ul>
+                <ul>Express</ul>
+                <ul>JWT</ul>
+                <ul>PM2</ul>
+             <b>FrontEnd</b>
+                <ul>React</ul>
+                <ul>Redux</ul>
+    </div>
+ </td>  
+ <td>
+     <div>
+       <b>Yesterday</b>
+       <b>Languages</b>
+          <ul>Pascal</ul>
+          <ul>Delphi</ul>
+          <ul>Visual Basic</ul>
+          <ul>Java Script</ul>
+       <b>Database</b>
+          <ul> Microsoft Access </ul>
+       <b>IDEs</b>
+          <ul>Visual Studio</ul>
+          <ul>Dreamweaver</ul>
+    </div>
+</td>
+<td>
+     <div>
+       <b>Flerting</b>
+         <ul>Pentesting</ul>
+         <ul>Cybersecurity</ul>
+    </div>
+</td>
+</tr>
 
 </table>
 
