@@ -47,7 +47,6 @@ Here are some ideas to get you started:
  <a href="https://git-scm.com/" title="Git"><img align="center" alt="git Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
  <a href="https://code.visualstudio.com/" title="VSCode"><img align="center" alt="vscode Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a>
 -->
-   <tr>
       <td>
          <h2>Today</h2>
             <h3>Languages</h3>
@@ -69,9 +68,7 @@ Here are some ideas to get you started:
                <h4>FrontEnd</h4>
                   <ul>React</ul>
                   <ul>Redux</ul>
-               </td>
-   </tr>   
-   <tr>
+      </td>  
       <td>
          <h2>Yesterday</h2>
          <h3>Languages</h3>
@@ -84,16 +81,12 @@ Here are some ideas to get you started:
          <h3>IDEs</h3>
             <ul>Visual Studio</ul>
             <ul><a href="https://www.adobe.com/products/dreamweaver.html">Dreamweaver</a></ul>
-            </td>
-   </tr>
-   
-    <tr>
-      <td>
-          <h2>Flerting</h2>
-            <ul>Pentesting</ul>
-            <ul>Cybersecurity</ul>
-      </td>
-   </tr>
+     </td>
+     <td>
+         <h2>Flerting</h2>
+           <ul>Pentesting</ul>
+           <ul>Cybersecurity</ul>
+     </td>
       
 
 </div>
