@@ -47,7 +47,9 @@ Here are some ideas to get you started:
  <a href="https://git-scm.com/" title="Git"><img align="center" alt="git Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
  <a href="https://code.visualstudio.com/" title="VSCode"><img align="center" alt="vscode Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a>
 -->
-   
+  
+</div>
+
 </table>
       <tr>
       <td>
@@ -92,8 +94,6 @@ Here are some ideas to get you started:
      </td>
      </tr>
 </table>
-
-</div>
 
 ### Portfolio
    
