@@ -46,7 +46,7 @@ Here are some ideas to get you started:
  <a href="https://git-scm.com/" title="Git"><img align="center" alt="git Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
  <a href="https://code.visualstudio.com/" title="VSCode"><img align="center" alt="vscode Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a>
    
-<a href="https://code.visualstudio.com/" title="Pascal"><img align="center" alt="pascal Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pascal/pascal-original.svg"></a>
+<a href="https://code.visualstudio.com/" title="Pascal"><img align="center" alt="pascal Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/object-pascal/object-pascal-original.svg"></a>
 </div>
 
 ### Portfolio
