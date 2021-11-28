@@ -172,11 +172,11 @@ Here are some ideas to get you started:
 
 ### Portfolio
    
-   Acesse minha [Wiki](https://github.com/becauro/becauro/wiki) para ter acesso aos links de repositórios de alguns **projetos que já fiz**.
-   Estou adicionando mais aos poucos.
+   Acesse minha [Wiki](https://github.com/becauro/becauro/wiki) para ter acesso aos links de repositórios de alguns **projetos que fiz**.
+   Estou adicionando mais aos poucos, visto que a maioria encotra-se espalhado dentro de forks (sd-011).
    
-   Caso não acesse pela Wiki, considere pelo menos que, referente aos repositórios que começam com nome "sd-011", para visualizar **os projetos que eu fiz**, precisa filtrar pela branch que comece com o meu nome: "michel-pereira".
-   O motivo disso também está explicado na mesma [Wiki](https://github.com/becauro/becauro/wiki).
+   Caso não acesse pela Wiki, considere pelo menos que, referente aos repositórios que começam com nome "sd-011", para visualizar **os projetos que fiz**, precisa filtrar pela branch que comece com o meu nome: "michel-pereira".
+   O motivo disso também está explicado na [Wiki](https://github.com/becauro/becauro/wiki).
    
 ---
 
