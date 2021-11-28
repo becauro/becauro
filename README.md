@@ -52,33 +52,37 @@ Here are some ideas to get you started:
 
 <table>
 <tr>
+   <td>Today</td>
+   <td>Yesterday</td>
+   <td>Flerting</td>
+</tr>
+<tr>
 <td>
      <div>
-       <b>Today</b>
-          <ul>Languages</ul>
-             <li>Java Script (ES6)</li>
-             <li>Java</li>
-             <li>C / C++</li>
-          <ul>Database</ul>
-             <li> MySQL </li>
-             <li> MongoDB </li>
-          <ul>IDEs</ul>
-             <li>NetBeans</li>
-             <li>Visual Studio Code</li>
-          <ul>Frameworks / Tools</ul>
-             <ul>BackEnd</ul>
-                <li>Node.js</li>
-                <li>Express</li>
-                <li>JWT</li>
-                <li>PM2</li>
-             <ul>FrontEnd</ul>
-                <li>React</li>
-                <li>Redux</li>
+      
+       <ul>Languages</ul>
+          <li>Java Script (ES6)</li>
+          <li>Java</li>
+          <li>C / C++</li>
+       <ul>Database</ul>
+          <li> MySQL </li>
+          <li> MongoDB </li>
+       <ul>IDEs</ul>
+          <li>NetBeans</li>
+          <li>Visual Studio Code</li>
+       <ul>Frameworks / Tools</ul>
+          <ul>BackEnd</ul>
+             <li>Node.js</li>
+             <li>Express</li>
+             <li>JWT</li>
+             <li>PM2</li>
+          <ul>FrontEnd</ul>
+             <li>React</li>
+             <li>Redux</li>
     </div>
  </td>  
  <td>
      <div>
-       <b>Yesterday</b>
        <ul>Languages</ul>
           <li>Pascal</li>
           <li>Delphi</li>
@@ -92,10 +96,9 @@ Here are some ideas to get you started:
     </div>
 </td>
 <td>
-     <div>
-       <b>Flerting</b>
-         <li>Pentesting</li>
-         <li>Cybersecurity</li>
+    <div>
+      <li>Pentesting</li>
+      <li>Cybersecurity</li>
     </div>
 </td>
 </tr>
