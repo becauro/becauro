@@ -52,56 +52,122 @@ Here are some ideas to get you started:
 
 <table>
 <tr>
-   <td>Today</td>
-   <td>Yesterday</td>
-   <td>Flerting</td>
+   <td></td>
+   <td><b>Today</b></td>
+   <td><b>Yesterday</b></td>
+   <td><b>Flerting for fun</b></td>
 </tr>
-<tr>
-   <td>
-     <div>
-       <ul>Languages</ul>
-          <li>Java Script (ES6)</li>
-          <li>Java</li>
-          <li>C / C++</li>
-       <ul>Database</ul>
-          <li> MySQL </li>
-          <li> MongoDB </li>
-       <ul>IDEs</ul>
-          <li>NetBeans</li>
-          <li>Visual Studio Code</li>
-       <ul>Frameworks / Tools</ul>
-          <ul>BackEnd</ul>
-             <li>Node.js</li>
-             <li>Express</li>
-             <li>JWT</li>
-             <li>PM2</li>
-          <ul>FrontEnd</ul>
-             <li>React</li>
-             <li>Redux</li>
-      </div>
-   </td>  
-   <td>
-     <div>
-       <ul>Languages</ul>
-          <li>Pascal</li>
-          <li>Delphi</li>
-          <li>Visual Basic</li>
-          <li>Java Script</li>
-       <ul>Database</ul>
-          <li> Microsoft Access </li>
-       <ul>IDEs</ul>
+<tr><td><b>Languages<b></td>
+      <td> <!-- TODAY -->
+         <ul>
+            <li>Java Script (ES6)</li>
+            <li>Java</li>
+            <li>C / C++</li>
+         </ul>
+      </td>
+      <td> <!-- YESTERDAY -->
+         <ul>
+            <li>Pascal</li>
+            <li>Delphi</li>
+            <li>Visual Basic</li>
+            <li>Java Script</li>
+         </ul>
+      </td>
+      <td> <!-- FLERTING -->
+         <ul>
+            <li>Pentesting</li>
+            <li>Cybersecurity</li>
+         </ul>
+      </td>
+</tr>
+<tr><td><b>Database</b></td>
+   <td> <!-- TODAY -->
+     <ul>
+         <li> MySQL </li>
+         <li> MongoDB </li>
+      </ul>
+   </td>
+   <td> <!-- YESTERDAY -->
+      <ul>
+         <li> Microsoft Access </li>
+      </ul>
+   </td>
+   <td> <!-- FLERTING -->
+      <ul>
+         <li> < nothing ></li>
+      </ul>
+   </td>
+</tr>
+<tr><td><b>IDEs</b></td>
+   <td>  <!-- TODAY -->
+      <ul>
+         <li>NetBeans</li>
+         <li>Visual Studio Code</li>
+      </ul>
+   </td> 
+   <td> <!-- YESTERDAY -->
+      <ul> 
           <li>Visual Studio</li>
           <li>Dreamweaver</li>
-    </div>
+      </ul>
    </td>
-   <td>
-    <div>
-      <li>Pentesting</li>
-      <li>Cybersecurity</li>
-    </div>
+   <td> <!-- FLERTING -->
+    <ul>
+         <li> < nothing ></li>
+   </ul>
    </td>
-</tr>
+   </tr>
+<tr><td><b>Frameworks / Tools</b></td>
+   <td>  <!-- TODAY -->
+      <ul>
+         <li><b>BackEnd</b> <br/>
+            <ul>
+               <li>Node.js</li>
+               <li>Express</li>
+               <li>JWT</li>
+               <li>PM2</li>
+            </ul>
+         </li>
+         <li><b>FrontEnd</b>
+            <ul>
+               <li>React</li>
+               <li>Redux</li>
+            </ul>
+         </li>
+      </ul>
+   </td>
+   <td> <!-- YESTERDAY -->
+       <ul> 
+         <li>Visual Studio</li>
+      </ul>
+   </td>
+   <td><!-- FLERTING -->
+      <ul>
+         <li> Android Studio</li>
+         <li> Metasploit</li>
+         <li> Burpsuite</li>
+         <li> Wireshark</li>
+      </ul>
+   </td></tr>
+<tr><td><b>Deployment</b></td>
+<td><!-- TODAY -->
+   <ul> 
+      <li>Heroku</li>
+      <li>Docker (Studing)</li>
+   </ul>
+</td>
+<td><!-- YESTERDAY -->
+   <ul> 
+      <li>AWS</li>
+   </ul>
+</td>
 
+<td><!-- FLERTING -->
+   <ul>
+      <li> < nothing > </li>
+   </ul>
+</td>
+</tr>
 </table>
 
 ### Portfolio
