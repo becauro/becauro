@@ -57,9 +57,8 @@ Here are some ideas to get you started:
    <td>Flerting</td>
 </tr>
 <tr>
-<td>
+   <td>
      <div>
-      
        <ul>Languages</ul>
           <li>Java Script (ES6)</li>
           <li>Java</li>
@@ -79,9 +78,9 @@ Here are some ideas to get you started:
           <ul>FrontEnd</ul>
              <li>React</li>
              <li>Redux</li>
-    </div>
- </td>  
- <td>
+      </div>
+   </td>  
+   <td>
      <div>
        <ul>Languages</ul>
           <li>Pascal</li>
@@ -94,13 +93,13 @@ Here are some ideas to get you started:
           <li>Visual Studio</li>
           <li>Dreamweaver</li>
     </div>
-</td>
-<td>
+   </td>
+   <td>
     <div>
       <li>Pentesting</li>
       <li>Cybersecurity</li>
     </div>
-</td>
+   </td>
 </tr>
 
 </table>
