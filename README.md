@@ -93,9 +93,6 @@ Here are some ideas to get you started:
       </ul>
    </td>
    <td> <!-- FLIRTING -->
-      <ul>
-         <li> < nothing ></li>
-      </ul>
    </td>
 </tr>
 <tr><td><b>IDEs</b></td>
@@ -112,9 +109,6 @@ Here are some ideas to get you started:
       </ul>
    </td>
    <td> <!-- FLIRTING -->
-    <ul>
-         <li> < nothing ></li>
-   </ul>
    </td>
    </tr>
 <tr><td><b>Frameworks / Tools</b></td>
@@ -163,9 +157,6 @@ Here are some ideas to get you started:
 </td>
 
 <td><!-- FLIRTING -->
-   <ul>
-      <li> < nothing > </li>
-   </ul>
 </td>
 </tr>
 </table>
