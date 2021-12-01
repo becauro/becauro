@@ -166,8 +166,8 @@ Here are some ideas to get you started:
       <ul> 
          <li>Windows Deployment</li>
          <li>GNU/Linux Deployment</li>
-         <li>Fix Computers</li>
-         <li>Build Computer</li>
+         <li>Computer fixing</li>
+         <li>Computer buiding</li>
       </ul>
    </td>
    <td><!-- FLIRTING -->
