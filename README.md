@@ -130,7 +130,7 @@ Here are some ideas to get you started:
    </td>
    <td> <!-- YESTERDAY -->
        <ul> 
-         <li>Visual Studio</li>
+         <li>Visual Studio (not "Code")</li>
       </ul>
    </td>
    <td><!-- FLIRTING -->
