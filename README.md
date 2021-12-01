@@ -68,7 +68,7 @@ Here are some ideas to get you started:
             <li>Pascal</li>
             <li>Delphi</li>
             <li>Visual Basic</li>
-            <li>Java Script</li>
+            <li>Java Script (not "ES")</li>
          </ul>
       </td>
       <td> <!-- FLIRTING -->
@@ -102,7 +102,7 @@ Here are some ideas to get you started:
    </td> 
    <td> <!-- YESTERDAY -->
       <ul> 
-          <li>Visual Studio</li>
+          <li>Visual Studio (not "Code")</li>
           <li>Dreamweaver</li>
       </ul>
    </td>
