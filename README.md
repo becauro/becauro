@@ -65,10 +65,10 @@ Here are some ideas to get you started:
       </td>
       <td> <!-- YESTERDAY -->
          <ul>
+            <li>Java Script (not "ES6")</li>
             <li>Pascal</li>
             <li>Delphi</li>
             <li>Visual Basic</li>
-            <li>Java Script (not "ES6")</li>
          </ul>
       </td>
       <td> <!-- FLIRTING -->
@@ -96,8 +96,8 @@ Here are some ideas to get you started:
 <tr><td><b>IDEs</b></td>
    <td>  <!-- TODAY -->
       <ul>
-         <li>NetBeans</li>
          <li>Visual Studio Code</li>
+         <li>NetBeans</li>
       </ul>
    </td> 
    <td> <!-- YESTERDAY -->
