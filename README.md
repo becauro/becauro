@@ -68,7 +68,7 @@ Here are some ideas to get you started:
             <li>Java Script (not "ES6")</li>
             <li>Pascal</li>
             <li>Delphi</li>
-            <li>Visual Basic</li>
+            <li>Visual Basic 6</li>
          </ul>
       </td>
       <td> <!-- FLIRTING -->
