@@ -9,11 +9,8 @@ Here are some ideas to get you started:
 <!--
 - ![image](https://user-images.githubusercontent.com/61303294/132923036-e8dea2a2-736e-492d-b781-538a5ad642dd.png)
 -->
-   🎶  I'm(was) a musician...
-<!--
-- ![image](https://user-images.githubusercontent.com/61303294/132928117-0fed3793-0856-4317-939b-95ba22c39ec1.png)
--->
-   🔍  I like searching and learning new things of computer area.
+   🎶  I'm(was) a multi-instrumentalist musician...
+
 <!--
 - ![image](https://user-images.githubusercontent.com/61303294/132922517-6d946203-e654-4e9c-9508-e1b9fbb4c46e.png)
 -->
@@ -47,7 +44,7 @@ Here are some ideas to get you started:
  <a href="https://git-scm.com/" title="Git"><img align="center" alt="git Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
  <a href="https://code.visualstudio.com/" title="VSCode"><img align="center" alt="vscode Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a>
 -->
-  
+<br /><br />
 </div>
 
 <table>
@@ -62,7 +59,8 @@ Here are some ideas to get you started:
          <ul>
             <li>Java Script (ES6)</li>
             <li>Java</li>
-            <li>C / C++</li>
+            <li>C</li>
+            <li>C++</li>
          </ul>
       </td>
       <td> <!-- YESTERDAY -->
