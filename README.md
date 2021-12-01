@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 <!--
 - ![image](https://user-images.githubusercontent.com/61303294/132922517-6d946203-e654-4e9c-9508-e1b9fbb4c46e.png)
 -->
-   🤝  I'd like collaborate with Open-source projects and helping people.
-
+   🤝  I love the Open-source world
+   🤝  I've stop to drink soda and coffee
 <!--
 - ![image](https://user-images.githubusercontent.com/61303294/132925897-b5f8aafb-1ad3-49ca-a963-a913acdb2df5.png)
 -->
-   ⚽  Fun fact: I play soccer and volleyball, but I'm kind of "retired" for now.
+   ⚽  Fun fact: I play soccer and volleyball, but I'm kind of "retired" today.
  <br /><br /> <br /><br />
  <div>
   <a href="https://github.com/becauro">
