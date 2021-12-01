@@ -159,7 +159,7 @@ Here are some ideas to get you started:
 <tr><td><b>Others</b></td>
    <td><!-- TODAY -->
       <ul>
-         <li>Cybersecurity</li>
+         <li>Cybersecurity concepts</li>
       </ul>
    </td>
    <td><!-- YESTERDAY -->
