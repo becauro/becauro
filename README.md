@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 
 -->
+ 🤝  I love the Open-source world
 <!--
 - ![image](https://user-images.githubusercontent.com/61303294/132923036-e8dea2a2-736e-492d-b781-538a5ad642dd.png)
 -->
@@ -13,9 +14,7 @@ Here are some ideas to get you started:
 
 <!--
 - ![image](https://user-images.githubusercontent.com/61303294/132922517-6d946203-e654-4e9c-9508-e1b9fbb4c46e.png)
--->
-   🤝  I love the Open-source world
-   
+-->   
    ☕  I've stopped to drink soda and coffee
 <!--
 - ![image](https://user-images.githubusercontent.com/61303294/132925897-b5f8aafb-1ad3-49ca-a963-a913acdb2df5.png)
