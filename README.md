@@ -73,8 +73,7 @@ Here are some ideas to get you started:
       </td>
       <td> <!-- FLIRTING -->
          <ul>
-            <li>Pentesting</li>
-            <li>Cybersecurity</li>
+            <li>Python</li>
          </ul>
       </td>
 </tr>
@@ -108,7 +107,7 @@ Here are some ideas to get you started:
    </td>
    <td> <!-- FLIRTING -->
    </td>
-   </tr>
+</tr>
 <tr><td><b>Frameworks / Tools</b></td>
    <td>  <!-- TODAY -->
       <ul>
@@ -142,20 +141,40 @@ Here are some ideas to get you started:
       </ul>
    </td></tr>
 <tr><td><b>Deployment</b></td>
-<td><!-- TODAY -->
-   <ul> 
-      <li>Heroku</li>
-      <li>Docker (Studing)</li>
-   </ul>
-</td>
-<td><!-- YESTERDAY -->
-   <ul> 
-      <li>AWS</li>
-   </ul>
-</td>
+   <td><!-- TODAY -->
+      <ul> 
+         <li>Heroku</li>
+         <li>Docker (Studing)</li>
+      </ul>
+   </td>
+   <td><!-- YESTERDAY -->
+      <ul> 
+         <li>AWS</li>
+      </ul>
+   </td>
 
-<td><!-- FLIRTING -->
-</td>
+   <td><!-- FLIRTING -->
+   </td>
+</tr>
+<tr><td><b>Others</b></td>
+   <td><!-- TODAY -->
+      <ul>
+         <li>Cybersecurity</li>
+      </ul>
+   </td>
+   <td><!-- YESTERDAY -->
+      <ul> 
+         <li>Windows Deployment</li>
+         <li>GNU/Linux Deployment</li>
+         <li>Fix Computers</li>
+         <li>Build Computer</li>
+      </ul>
+   </td>
+   <td><!-- FLIRTING -->
+      <ul>
+         <li>Pentesting</li>
+      </ul>
+   </td>
 </tr>
 </table>
 
