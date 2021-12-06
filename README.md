@@ -117,6 +117,7 @@ Here are some ideas to get you started:
                <li>Express</li>
                <li>JWT</li>
                <li>PM2</li>
+               <li>Sequelize ORM</li>
             </ul>
          </li>
          <li><b>FrontEnd</b>
