@@ -149,12 +149,12 @@ Here are some ideas to get you started:
       </ul>
    </td>
    <td><!-- YESTERDAY -->
-      <ul> 
-         <li>AWS</li>
-      </ul>
    </td>
 
    <td><!-- FLIRTING -->
+     <ul> 
+         <li>AWS</li>
+      </ul>
    </td>
 </tr>
 <tr><td><b>Others</b></td>
