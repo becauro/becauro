@@ -1,25 +1,12 @@
 ### printf("Hi ...\n")
 
-<!--
-**becauro/becauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
  🤝  I love the Open-source world
-<!--
-- ![image](https://user-images.githubusercontent.com/61303294/132923036-e8dea2a2-736e-492d-b781-538a5ad642dd.png)
--->
-   🎶  He was a multi-instrumentalist musician...
 
-<!--
-- ![image](https://user-images.githubusercontent.com/61303294/132922517-6d946203-e654-4e9c-9508-e1b9fbb4c46e.png)
--->   
+   🎶  I was a multi-instrumentalist musician...
+
    ☕  I've stopped to drink soda and coffee
-<!--
-- ![image](https://user-images.githubusercontent.com/61303294/132925897-b5f8aafb-1ad3-49ca-a963-a913acdb2df5.png)
--->
-   ⚽  Fun fact: He says he plays soccer and volleyball, but he always makes a excuse not to do so.
+
+   ⚽  Fun fact: I played soccer and volleyball
  <br /><br /> <br /><br />
  <div>
   <a href="https://github.com/becauro">
@@ -58,13 +45,14 @@ Here are some ideas to get you started:
       <td> <!-- TODAY -->
          <ul>
             <li>Java Script (ES6)</li>
-            <li>Java</li>
+            <li>Python</li>
             <li>C</li>
-            <li>C++</li>
          </ul>
       </td>
       <td> <!-- YESTERDAY -->
          <ul>
+            <li>C++</li>
+            <li>Java</li>
             <li>Java Script (not "ES6")</li>
             <li>Pascal</li>
             <li>Delphi</li>
@@ -73,7 +61,7 @@ Here are some ideas to get you started:
       </td>
       <td> <!-- FLIRTING -->
          <ul>
-            <li>Python</li>
+            <li>Go</li>
          </ul>
       </td>
 </tr>
