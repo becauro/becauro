@@ -170,7 +170,7 @@
 ### Portfolio
    
    [Nessa Wiki](https://github.com/becauro/becauro/wiki) encontram-se os links para o repositórios de alguns **projetos que fiz e/ou participei**.
-   Estou adicionando mais aos poucos, visto que a maioria encontra-se espalhado dentro de forks (sd-011).
+   Estou adicionando mais aos poucos, visto que a maioria encontra-se espalhado dentro de forks desses repositórios que incluem o termo "sd-011" em seus nomes.
    
    Caso não acesse pela Wiki, para visualizar **meus projetos** contidos nos forks que começam com **sd-011**, deverá filtrar pela branch que comece com o meu nome ("michel-pereira").
    O motivo disso também está explicado em detalhes na [Wiki](https://github.com/becauro/becauro/wiki).
