@@ -47,12 +47,13 @@
             <li>Java Script (ES6)</li>
             <li>Python</li>
             <li>C</li>
+            <li>Java EE (Studing)</li>
          </ul>
       </td>
       <td> <!-- YESTERDAY -->
          <ul>
             <li>C++</li>
-            <li>Java</li>
+            <li>Java SE</li>
             <li>Java Script (not "ES6")</li>
             <li>Pascal</li>
             <li>Delphi</li>
