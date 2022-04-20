@@ -156,8 +156,8 @@
       <ul> 
          <li>Windows Deployment</li>
          <li>GNU/Linux Deployment</li>
-         <li>Computer fixing</li>
-         <li>Computer buiding</li>
+         <li>Computer repair</li>
+         <li>Computer "builder"</li>
       </ul>
    </td>
    <td><!-- FLIRTING -->
