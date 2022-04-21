@@ -6,7 +6,7 @@
 
    ☕  I've stopped to drink soda and coffee
 
-   ⚽  Fun fact: I played soccer and volleyball
+   ⚽  Fun fact: I've played soccer and volleyball as hobby
  <br /><br /> <br /><br />
  <div>
   <a href="https://github.com/becauro">
