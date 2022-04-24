@@ -134,7 +134,6 @@
    <td><!-- TODAY -->
       <ul> 
          <li>Heroku</li>
-         <li>Docker (Studing)</li>
       </ul>
    </td>
    <td><!-- YESTERDAY -->
