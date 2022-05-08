@@ -84,6 +84,7 @@
 <tr><td><b>IDEs</b></td>
    <td>  <!-- TODAY -->
       <ul>
+         <li>Eclipse</li>
          <li>Visual Studio Code</li>
          <li>NetBeans</li>
       </ul>
