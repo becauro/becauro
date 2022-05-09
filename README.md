@@ -131,7 +131,7 @@
          <li> Wireshark</li>
       </ul>
    </td></tr>
-<tr><td><b>Deployment</b></td>
+<tr><td><b>Cloud</b></td>
    <td><!-- TODAY -->
       <ul> 
          <li>Heroku</li>
