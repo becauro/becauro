@@ -44,10 +44,10 @@
 <tr><td><b>Languages<b></td>
       <td> <!-- TODAY -->
          <ul>
+            <li>Java EE (Studing)</li>
             <li>Java Script (ES6)</li>
             <li>Python</li>
             <li>C</li>
-            <li>Java EE (Studing)</li>
          </ul>
       </td>
       <td> <!-- YESTERDAY -->
