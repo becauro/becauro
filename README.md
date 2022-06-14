@@ -4,8 +4,6 @@
 
    🎶  I was a multi-instrumentalist musician...
 
-   ☕  I've stopped to drink soda and coffee
-
    ⚽  Fun fact: I've played soccer and volleyball as a hobby
  <br /><br /> <br /><br />
  <div>
