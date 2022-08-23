@@ -117,7 +117,7 @@
          </li>
          <li><b>Mobile</b>
             <ul>
-               <li>React Native</li>
+               <li>React Native(Studing)</li>
             </ul>
          </li>
       </ul>
@@ -129,7 +129,6 @@
    </td>
    <td><!-- FLIRTING -->
       <ul>
-         <li> Android Studio</li>
          <li> Metasploit</li>
          <li> Burpsuite</li>
          <li> Wireshark</li>
