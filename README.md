@@ -115,6 +115,11 @@
                <li>Redux</li>
             </ul>
          </li>
+         <li><b>Mobile</b>
+            <ul>
+               <li>React Native</li>
+            </ul>
+         </li>
       </ul>
    </td>
    <td> <!-- YESTERDAY -->
