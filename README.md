@@ -97,7 +97,7 @@
    <td> <!-- FLIRTING -->
    </td>
 </tr>
-<tr><td><b>Frameworks / Tools</b></td>
+<tr><td><b>Frameworks / Libs</b></td>
    <td>  <!-- TODAY -->
       <ul>
          <li><b>BackEnd</b> <br/>
@@ -105,7 +105,6 @@
                <li>Node.js</li>
                <li>Express</li>
                <li>JWT</li>
-               <li>PM2</li>
                <li>Sequelize ORM</li>
             </ul>
          </li>
@@ -128,12 +127,58 @@
       </ul>
    </td>
    <td><!-- FLIRTING -->
-      <ul>
+      <!--<ul>
          <li> Metasploit</li>
          <li> Burpsuite</li>
          <li> Wireshark</li>
-      </ul>
+      </ul> -->
    </td></tr>
+<tr><td><b>Tools</b></td>
+   <td><!-- TODAY -->
+      <ul>
+         <li><b>BackEnd</b> <br/>
+            <ul>
+               <li>Postman</li>
+               <li>PM2</li>
+               <li>Jest</li>
+            </ul>
+         </li>
+         <li><b>FrontEnd</b>
+            <ul>
+               <li>Jest</li>
+            </ul>
+         </li>
+         <li><b>Blue Team</b>
+            <ul>
+               <li>Wireshark</li>
+               <li>nmap</li>
+               <li>OpenWRT</li>
+            </ul>
+         </li>
+         <li><b>Red Team</b>
+            <ul>
+               <li>Metasploit</li>
+            </ul>
+         </li>
+      </ul>
+   </td>
+   <td><!-- YESTERDAY -->
+   </td>
+
+   <td><!-- FLIRTING -->
+     <ul> 
+         <li><b>Blue Team</b><br/>
+            <ul>
+               <li>pfSense</li>
+            </ul>
+         </li>
+         <li><b>Red Team</b>
+            <ul>
+               <li>Burp Suite</li>
+            </ul>
+         </li>
+     </ul>
+   </td>
 <tr><td><b>Cloud</b></td>
    <td><!-- TODAY -->
       <ul> 
@@ -160,7 +205,7 @@
          <li>Windows Deployment</li>
          <li>GNU/Linux Deployment</li>
          <li>Computer repair</li>
-         <li>Computer "builder"</li>
+         <li>Computer "building"</li>
       </ul>
    </td>
    <td><!-- FLIRTING -->
