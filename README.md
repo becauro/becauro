@@ -1,6 +1,8 @@
 ### printf("Hi ...\n")
 
- 🤝  I love the Open-source world
+ 🤝  I like the Open-source world
+ 
+ :heart: I love Technology
 
    🎶  I was a multi-instrumentalist musician...
 
