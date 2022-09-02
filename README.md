@@ -2,11 +2,11 @@
 
  🤝  I like the Open-source world
  
- :heart: I love Technology
+ :heart: I love Technology and discover new things
 
-   🎶  I was a multi-instrumentalist musician...
+   🎶  I play music ...
 
-   ⚽  Fun fact: I've played soccer and volleyball as a hobby
+   ⚽  Fun fact: In the past I've really played soccer and volleyball as a hobby
  <br /><br /> <br /><br />
  <div>
   <a href="https://github.com/becauro">
