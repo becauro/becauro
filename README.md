@@ -44,19 +44,20 @@
 <tr><td><b>Languages<b></td>
       <td> <!-- TODAY -->
          <ul>
-            <li>Java EE (Studing)</li>
+            
             <li>Java Script (ES6)</li>
             <li>Python</li>
-            <li>C</li>
+            <li>C (Basic Level)</li>
          </ul>
       </td>
       <td> <!-- YESTERDAY -->
          <ul>
-            <li>C++</li>
-            <li>Java SE</li>
+            <li>Java EE (Paused Studies)</li>
+            <li>C++ (Very Basic level)</li>
+            <li>Java SE (Very Basic level)</li>
             <li>Java Script (not "ES6")</li>
-            <li>Pascal</li>
-            <li>Delphi</li>
+            <li>Pascal (Basic level)</li>
+            <li>Delphi (Basic level)</li>
             <li>Visual Basic 6</li>
          </ul>
       </td>
