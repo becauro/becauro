@@ -44,7 +44,6 @@
 <tr><td><b>Languages<b></td>
       <td> <!-- TODAY -->
          <ul>
-            
             <li>Java Script (ES6)</li>
             <li>Python</li>
             <li>C (Basic Level)</li>
