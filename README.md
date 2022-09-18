@@ -146,7 +146,7 @@
    </td>
 </tr>
 <!-- <tr><td><b>Tools</b></td>
-   <td><!-- TODAY -->
+   <td> TODAY
       <ul>
          <li><b>Back End</b> <br/>
             <ul>
@@ -174,10 +174,10 @@
          </li>
       </ul>
    </td>
-   <td>YESTERDAY
+   <td> YESTERDAY
    </td>
 
-   <td><FLIRTING
+   <td> FLIRTING
     <ul> 
          <li><b>Blue Team</b><br/>
             <ul>
