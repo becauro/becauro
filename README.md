@@ -43,7 +43,7 @@
    <!-- <td></td>
    <td><b>Today</b></td>
    <td><b>Yesterday</b></td>
-   <td><b>Flirting with</b></td> -->
+   <td><b>Flirting</b></td> -->
    <th></th>
    <th>Today</th>
    <th>Yesterday</th>
