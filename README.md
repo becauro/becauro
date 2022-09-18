@@ -92,20 +92,20 @@
    </td>
 </tr>
 <!-- <tr><td><b>IDEs</b></td>
-   <td>  <!-- TODAY -->
+   <td>  TODAY
       <ul>
          <li>Eclipse</li>
          <li>Visual Studio Code</li>
          <li>NetBeans</li>
       </ul>
    </td> 
-   <td> <!-- YESTERDAY -->
+   <td> YESTERDAY
       <ul> 
           <li>Visual Studio (not "Code")</li>
           <li>Dreamweaver</li>
       </ul>
    </td>
-   <td> <!-- FLIRTING -->
+   <td> FLIRTING
    </td>
 </tr> -->
 <tr><td><b>Frameworks / Libs</b></td>
@@ -174,10 +174,10 @@
          </li>
       </ul>
    </td>
-   <td><!-- YESTERDAY -->
+   <td>YESTERDAY
    </td>
 
-   <td><!-- FLIRTING -->
+   <td><FLIRTING
     <ul> 
          <li><b>Blue Team</b><br/>
             <ul>
