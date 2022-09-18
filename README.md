@@ -80,6 +80,7 @@
          <li> MySQL </li>
          <li> MongoDB </li>
          <li> PostgreSQL </li>
+         <li>SQLite</li>
       </ul>
    </td>
    <td> <!-- YESTERDAY -->
