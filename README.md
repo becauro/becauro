@@ -168,7 +168,7 @@
    </td>
 
    <td><!-- FLIRTING -->
-     <ul> 
+    <!-- <ul> 
          <li><b>Blue Team</b><br/>
             <ul>
                <li>pfSense</li>
@@ -179,9 +179,9 @@
                <li>Burp Suite</li>
             </ul>
          </li>
-     </ul>
+     </ul> -->
    </td>
-<tr><td><b>Cloud</b></td>
+<!-- <tr><td><b>Cloud</b></td>
    <td><!-- TODAY -->
       <ul> 
          <li>Heroku</li>
@@ -195,7 +195,7 @@
          <li>AWS</li>
       </ul>
    </td>
-</tr>
+</tr> -->
 <tr><td><b>Others</b></td>
    <td><!-- TODAY -->
       <ul>
