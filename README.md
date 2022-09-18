@@ -91,7 +91,7 @@
    <td> <!-- FLIRTING -->
    </td>
 </tr>
-<tr><td><b>IDEs</b></td>
+<!-- <tr><td><b>IDEs</b></td>
    <td>  <!-- TODAY -->
       <ul>
          <li>Eclipse</li>
@@ -107,11 +107,11 @@
    </td>
    <td> <!-- FLIRTING -->
    </td>
-</tr>
+</tr> -->
 <tr><td><b>Frameworks / Libs</b></td>
    <td>  <!-- TODAY -->
       <ul>
-         <li><b>BackEnd</b> <br/>
+         <li><b>Back End</b> <br/>
             <ul>
                <li>Node.js</li>
                <li>Express</li>
@@ -119,8 +119,8 @@
                <li>Sequelize ORM</li>
             </ul>
          </li>
-         <li><b>FrontEnd</b>
-            <ul>
+         <li><b>Front End</b>
+            <ul> 
                <li>React</li>
                <li>Redux</li>
             </ul>
@@ -145,17 +145,17 @@
       </ul> -->
    </td>
 </tr>
-<tr><td><b>Tools</b></td>
+<!-- <tr><td><b>Tools</b></td>
    <td><!-- TODAY -->
       <ul>
-         <li><b>BackEnd</b> <br/>
+         <li><b>Back End</b> <br/>
             <ul>
                <li>Postman</li>
                <li>PM2</li>
                <li>Jest</li>
             </ul>
          </li>
-         <li><b>FrontEnd</b>
+         <li><b>Front End</b>
             <ul>
                <li>Jest</li>
             </ul>
@@ -191,17 +191,17 @@
          </li>
      </ul> -->
    </td>
-</tr>
+</tr> -->
 <!-- <tr><td><b>Cloud</b></td>
-   <td> TODAY
+   <td> <!-- TODAY -->
       <ul> 
          <li>Heroku</li>
       </ul>
    </td>
-   <td> YESTERDAY 
+   <td> <!-- YESTERDAY -->
    </td>
 
-   <td> FLIRTING 
+   <td> <!-- FLIRTING -->
      <ul> 
          <li>AWS</li>
       </ul>
