@@ -34,7 +34,7 @@
 <br /><br />
 </div>
 
-<table style="pointer-events: none">
+<table style="text-decoration: none">
 <tr>
    <!-- <td></td>
    <td><b>Today</b></td>
