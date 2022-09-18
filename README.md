@@ -35,9 +35,9 @@
  <a href="https://code.visualstudio.com/" title="VSCode"><img align="center" alt="vscode Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a>
 -->
 <br /><br />
-<!-- </di> -->
+</di>
 
-<!-- <div> -->
+<div>
 <table>
 <tr>
    <!-- <td></td>
@@ -74,7 +74,7 @@
          </ul>
       </td>
 </tr>
-<tr><td><b>Database</b></td>
+<tr><td><b>Databases</b></td>
    <td> <!-- TODAY -->
      <ul>
          <li> MySQL </li>
