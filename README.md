@@ -150,7 +150,7 @@
                <li>Jest</li>
             </ul>
          </li>
-         <li><b>Blue Team</b>
+         <!-- <li><b>Blue Team</b>
             <ul>
                <li>Wireshark</li>
                <li>nmap</li>
@@ -161,7 +161,7 @@
             <ul>
                <li>Metasploit</li>
             </ul>
-         </li>
+         </li> -->
       </ul>
    </td>
    <td><!-- YESTERDAY -->
