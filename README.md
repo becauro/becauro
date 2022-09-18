@@ -182,15 +182,15 @@
      </ul> -->
    </td>
 <!-- <tr><td><b>Cloud</b></td>
-   <td><!-- TODAY -->
+   <td> TODAY
       <ul> 
          <li>Heroku</li>
       </ul>
    </td>
-   <td> YESTERDAY -->
+   <td> YESTERDAY 
    </td>
 
-   <td> FLIRTING -->
+   <td> FLIRTING 
      <ul> 
          <li>AWS</li>
       </ul>
