@@ -36,10 +36,14 @@
 
 <table>
 <tr>
-   <td></td>
+   <!-- <td></td>
    <td><b>Today</b></td>
    <td><b>Yesterday</b></td>
-   <td><b>Flirting with</b></td>
+   <td><b>Flirting with</b></td> -->
+   <th></th>
+   <th>Today</th>
+   <th>Yesterday</th>
+   <th>Flirting with</th>
 </tr>
 <tr><td><b>Languages<b></td>
       <td> <!-- TODAY -->
