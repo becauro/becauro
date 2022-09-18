@@ -143,7 +143,8 @@
          <li> Burpsuite</li>
          <li> Wireshark</li>
       </ul> -->
-   </td></tr>
+   </td>
+</tr>
 <tr><td><b>Tools</b></td>
    <td><!-- TODAY -->
       <ul>
@@ -190,6 +191,7 @@
          </li>
      </ul> -->
    </td>
+</tr>
 <!-- <tr><td><b>Cloud</b></td>
    <td> TODAY
       <ul> 
