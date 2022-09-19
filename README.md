@@ -230,6 +230,8 @@
 </table>
 </div>
 
+<div>
+
 ### Portfolio
    
    [Nessa Wiki](https://github.com/becauro/becauro/wiki) encontram-se os links para o repositórios de alguns **projetos que fiz e/ou participei**.
@@ -245,3 +247,4 @@
   <a href="https://www.linkedin.com/in/becauro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
+</div>
