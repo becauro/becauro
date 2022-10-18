@@ -54,7 +54,7 @@
          <ul>
             <li>Java Script (ES6)</li>
             <li>Python</li>
-            <li>C (Basic Level)</li>
+            <li>C</li>
          </ul>
       </td>
       <td> <!-- YESTERDAY -->
