@@ -176,8 +176,8 @@
          </li>
       </ul>
    </td>
-   <!-- <td> YESTERDAY
-   </td> -->
+   <td> YESTERDAY
+   </td>
 
    <td> FLIRTING
     <ul> 
