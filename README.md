@@ -57,17 +57,16 @@
             <li>C</li>
          </ul>
       </td>
-     <!-- <td>  YESTERDAY -->
+     <!-- <td>   YESTERDAY
          <ul>
-            <li>Java EE (Paused Studies)</li>
-            <li>C++ (Very Basic level)</li>
+            <!-- <li>Java EE (Paused Studies)</li> -->
+            <!-- <li>C++ (Very Basic level)</li> -->
             <li>Java SE (Very Basic level)</li>
-            <li>Java Script (not "ES6")</li>
             <li>Pascal (Basic level)</li>
             <li>Delphi (Basic level)</li>
             <li>Visual Basic 6</li>
          </ul>
-      </td>
+      </td>  -->
       <td> <!-- FLIRTING -->
          <ul>
             <li>Go</li>
@@ -83,11 +82,11 @@
          <li>SQLite</li>
       </ul>
    </td>
-  <!-- <td>  YESTERDAY -->
+  <!-- <td>  YESTERDAY
       <ul>
          <li> Microsoft Access </li>
       </ul>
-   </td>
+   </td>  -->
    <td> <!-- FLIRTING -->
    </td>
 </tr>
@@ -137,13 +136,13 @@
          <li>Visual Studio (not "Code")</li>
       </ul>
    </td>
-   <td><!-- FLIRTING -->
+   <td><!-- FLIRTING 
       <!--<ul>
          <li> Metasploit</li>
          <li> Burpsuite</li>
          <li> Wireshark</li>
       </ul> -->
-   </td>
+   </td> -->
 </tr>
 <!-- <tr><td><b>Tools</b></td>
    <td> TODAY
@@ -174,8 +173,8 @@
          </li>
       </ul>
    </td>
-   <td> YESTERDAY
-   </td>
+   <!-- <td> YESTERDAY
+   </td> -->
 
    <td> FLIRTING
     <ul> 
@@ -213,14 +212,14 @@
          <li>Cybersecurity concepts</li>
       </ul>
    </td>
-  <!-- <td> YESTERDAY -->
+  <!-- <td> YESTERDAY 
       <ul> 
          <li>Windows Deployment</li>
          <li>GNU/Linux Deployment</li>
          <li>Computer repair</li>
          <li>Computer "building"</li>
       </ul>
-   </td>
+   </td> -->
    <td><!-- FLIRTING -->
       <ul>
          <li>Pentesting</li>
