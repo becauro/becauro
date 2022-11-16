@@ -40,6 +40,7 @@
 <div>
 <table>
 <tr>
+   <th> </th>
    <th>Today</th>
    <!-- <th>Yesterday</th> -->
    <th>Flirting with</th>
