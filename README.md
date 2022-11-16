@@ -128,7 +128,7 @@
          </li>
          <li><b>Mobile</b>
             <ul>
-               <li>React Native(Studing)</li>
+               <li>React Native(Basic)</li>
             </ul>
          </li>
       </ul>
