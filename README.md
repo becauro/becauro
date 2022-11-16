@@ -131,11 +131,11 @@
          </li>
       </ul>
    </td>
-  <!-- <td>  YESTERDAY -->
+  <!-- <td>  YESTERDAY
        <ul> 
          <li>Visual Studio (not "Code")</li>
       </ul>
-   </td>
+   </td> -->
    <td><!-- FLIRTING 
       <!--<ul>
          <li> Metasploit</li>
