@@ -88,6 +88,9 @@
       </ul>
    </td>  -->
    <td> <!-- FLIRTING -->
+    <ul>
+         <li> teste </li>
+      </ul>
    </td>
 </tr>
 <!-- <tr><td><b>IDEs</b></td>
