@@ -138,13 +138,14 @@
          <li>Visual Studio (not "Code")</li>
       </ul>
    </td> -->
-   <!-- <td> FLIRTING 
+   <td> <!-- FLIRTING -->
       <ul>
-         <li> Metasploit</li>
+         <li> TODO </li>
+         <!-- <li> Metasploit</li>
          <li> Burpsuite</li>
-         <li> Wireshark</li>
+         <li> Wireshark</li> -->
       </ul>
-   </td> -->
+   </td>
 </tr>
 <!-- <tr><td><b>Tools</b></td>
    <td> TODAY
