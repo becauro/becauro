@@ -81,7 +81,7 @@
       <ul>
          <li> Microsoft Access </li>
       </ul>
-   </td>  -->
+   </td> -->
    <td> <!-- FLIRTING -->
     <ul>
          <li> teste </li>
@@ -103,6 +103,9 @@
       </ul>
    </td> -->
    <td> <!-- FLIRTING -->
+     <ul>
+         <li> teste </li>
+      </ul>
    </td>
 </tr> -->
 <tr><td><b>Frameworks / Libs</b></td>
