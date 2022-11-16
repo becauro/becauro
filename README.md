@@ -143,7 +143,7 @@
          <li> Metasploit</li>
          <li> Burpsuite</li>
          <li> Wireshark</li>
-      </ul> -->
+      </ul>
    </td> -->
 </tr>
 <!-- <tr><td><b>Tools</b></td>
