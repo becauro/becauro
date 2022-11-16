@@ -46,7 +46,7 @@
    <td><b>Flirting</b></td> -->
    <th></th>
    <th>Today</th>
-   <th>Yesterday</th>
+   <!-- <th>Yesterday</th> -->
    <th>Flirting with</th>
 </tr>
 <tr><td><b>Languages<b></td>
@@ -57,7 +57,7 @@
             <li>C</li>
          </ul>
       </td>
-      <td> <!-- YESTERDAY -->
+     <!-- <td>  YESTERDAY -->
          <ul>
             <li>Java EE (Paused Studies)</li>
             <li>C++ (Very Basic level)</li>
@@ -83,7 +83,7 @@
          <li>SQLite</li>
       </ul>
    </td>
-   <td> <!-- YESTERDAY -->
+  <!-- <td>  YESTERDAY -->
       <ul>
          <li> Microsoft Access </li>
       </ul>
@@ -132,7 +132,7 @@
          </li>
       </ul>
    </td>
-   <td> <!-- YESTERDAY -->
+  <!-- <td>  YESTERDAY -->
        <ul> 
          <li>Visual Studio (not "Code")</li>
       </ul>
@@ -213,7 +213,7 @@
          <li>Cybersecurity concepts</li>
       </ul>
    </td>
-   <td><!-- YESTERDAY -->
+  <!-- <td> YESTERDAY -->
       <ul> 
          <li>Windows Deployment</li>
          <li>GNU/Linux Deployment</li>
