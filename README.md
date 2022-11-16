@@ -59,8 +59,8 @@
       </td>
      <!-- <td>   YESTERDAY
          <ul>
-            <!-- <li>Java EE (Paused Studies)</li> -->
-            <!-- <li>C++ (Very Basic level)</li> -->
+            <li>Java EE (Paused Studies)</li>
+            <li>C++ (Very Basic level)</li>
             <li>Java SE (Very Basic level)</li>
             <li>Pascal (Basic level)</li>
             <li>Delphi (Basic level)</li>
@@ -98,12 +98,12 @@
          <li>NetBeans</li>
       </ul>
    </td> 
-   <td> YESTERDAY
+   <!-- <td> YESTERDAY
       <ul> 
           <li>Visual Studio (not "Code")</li>
           <li>Dreamweaver</li>
       </ul>
-   </td>
+   </td> -->
    <td> FLIRTING
    </td>
 </tr> -->
