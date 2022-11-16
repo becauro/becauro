@@ -104,7 +104,7 @@
           <li>Dreamweaver</li>
       </ul>
    </td> -->
-   <td> FLIRTING
+   <td> <!-- FLIRTING -->
    </td>
 </tr> -->
 <tr><td><b>Frameworks / Libs</b></td>
@@ -136,8 +136,8 @@
          <li>Visual Studio (not "Code")</li>
       </ul>
    </td> -->
-   <td><!-- FLIRTING 
-      <!--<ul>
+   <!-- <td> FLIRTING 
+      <ul>
          <li> Metasploit</li>
          <li> Burpsuite</li>
          <li> Wireshark</li>
