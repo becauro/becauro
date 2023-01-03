@@ -212,6 +212,7 @@
 <tr><td><b>Others</b></td>
    <td><!-- TODAY -->
       <ul>
+         <li>Docker</li>
          <li>Cybersecurity concepts</li>
       </ul>
    </td>
