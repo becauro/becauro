@@ -18,22 +18,7 @@
   -->
   <!-- </a> -->
 </div>
-<!--
-<div style="display: inline_block"><br>
-  <a href="https://en.wikipedia.org/wiki/HTML5" title="HTML5"><img align="center" alt="HTML Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <a href="https://en.wikipedia.org/wiki/CSS#CSS_3" title="CSS3"><img align="center" alt="CSS Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-  <a href="https://en.wikipedia.org/wiki/JavaScript" title="JS"><img align="center" alt="Js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C (programming language)"><img align="center" alt="C Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a>
-  <a href="https://nodejs.org/en/about/" title="NodeJS"><img align="center" alt="NodeJS Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>
-  <a href="https://reactjs.org/" title="React"><img align="center" alt="React Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
-  <a href="https://redux.js.org/" title="Redux"><img align="center" alt="Redux Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></a>
-  <a href="https://www.debian.org/index.en.html" title="Debian"><img align="center" alt="Linux Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>
-  <a href="https://www.mysql.com/" title="MySQL"><img align="center" alt="mysql Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
- <a href="https://www.mongodb.com/" title="MongoDB"><img align="center" alt="mongodb Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></a>
-    <a href="https://expressjs.com" title="Express"><img align="center" alt="express Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></a>
- <a href="https://git-scm.com/" title="Git"><img align="center" alt="git Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
- <a href="https://code.visualstudio.com/" title="VSCode"><img align="center" alt="vscode Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a>
--->
+
 <br /><br />
 </di>
 
@@ -55,12 +40,7 @@
       </td>
      <!-- <td>   YESTERDAY
          <ul>
-            <li>Java EE (Paused Studies)</li>
-            <li>C++ (Very Basic level)</li>
-            <li>Java SE (Very Basic level)</li>
-            <li>Pascal (Basic level)</li>
-            <li>Delphi (Basic level)</li>
-            <li>Visual Basic 6</li>
+            <li>Todo</li>
          </ul>
       </td>  -->
       <td> <!-- FLIRTING -->
@@ -133,67 +113,13 @@
          </li>
       </ul>
    </td>
-  <!-- <td>  YESTERDAY
-       <ul> 
-         <li>Visual Studio (not "Code")</li>
-      </ul>
-   </td> -->
    <td> <!-- FLIRTING -->
       <ul>
          <li> TODO </li>
-         <!-- <li> Metasploit</li>
-         <li> Burpsuite</li>
-         <li> Wireshark</li> -->
+         
       </ul>
    </td>
 </tr>
-<!-- <tr><td><b>Tools</b></td>
-   <td> TODAY
-      <ul>
-         <li><b>Back End</b> <br/>
-            <ul>
-               <li>Postman</li>
-               <li>PM2</li>
-               <li>Jest</li>
-            </ul>
-         </li>
-         <li><b>Front End</b>
-            <ul>
-               <li>Jest</li>
-            </ul>
-         </li>
-         <li><b>Blue Team</b>
-            <ul>
-               <li>Wireshark</li>
-               <li>nmap</li>
-               <li>OpenWRT</li>
-            </ul>
-         </li>
-         <li><b>Red Team</b>
-            <ul>
-               <li>Metasploit</li>
-            </ul>
-         </li>
-      </ul>
-   </td>
-   <td> YESTERDAY
-   </td>
-
-   <td> FLIRTING
-    <ul> 
-         <li><b>Blue Team</b><br/>
-            <ul>
-               <li>pfSense</li>
-            </ul>
-         </li>
-         <li><b>Red Team</b>
-            <ul>
-               <li>Burp Suite</li>
-            </ul>
-         </li>
-     </ul>
-   </td>
-</tr> -->
 <!-- <tr><td><b>Cloud</b></td>
    <td>  TODAY
       <ul> 
@@ -217,12 +143,6 @@
       </ul>
    </td>
   <!-- <td> YESTERDAY 
-      <ul> 
-         <li>Windows Deployment</li>
-         <li>GNU/Linux Deployment</li>
-         <li>Computer repair</li>
-         <li>Computer "building"</li>
-      </ul>
    </td> -->
    <td><!-- FLIRTING -->
       <ul>
@@ -234,17 +154,6 @@
 </div>
 
 <!--
-<div>
-
-### Portfolio
-   
-   [Nessa Wiki](https://github.com/becauro/becauro/wiki) encontram-se os links para o repositórios de alguns **projetos que fiz e/ou participei**.
-   Estou adicionando mais aos poucos, visto que a maioria encontra-se espalhado dentro de forks desses repositórios que incluem o termo "sd-011" em seus nomes.
-   
-   Caso não acesse pela Wiki, para visualizar **meus projetos** contidos nos forks que começam com **sd-011**, deverá filtrar pela branch que comece com o meu nome ("michel-pereira").
-   O motivo disso também está explicado em detalhes na [Wiki](https://github.com/becauro/becauro/wiki).
-   
----
 
 <div>
 
