@@ -115,14 +115,13 @@
    <td> <!-- FLIRTING -->
       <ul>
          <li> TODO </li>
-         
       </ul>
    </td>
 </tr>
 <!-- <tr><td><b>Cloud</b></td>
    <td>  TODAY
       <ul> 
-         <li>Heroku</li>
+         <li>AWS</li>
       </ul>
    </td>
    <td> YESTERDAY
@@ -145,7 +144,7 @@
    </td> -->
    <td><!-- FLIRTING -->
       <ul>
-         <li>Pentesting</li>
+         <li>TODO</li>
       </ul>
    </td>
 </tr>
