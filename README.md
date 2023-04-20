@@ -6,7 +6,6 @@
 
    🎶  I play things ... (no much)
 
-   ⚽  Fun fact: In the past I've played soccer ("this thing" was a hobby)
  <br /><br /> <br /><br />
 
 <div>
