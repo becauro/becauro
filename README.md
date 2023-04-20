@@ -4,7 +4,7 @@
  
  :heart: I love to discover new things ...
 
-   🎶  I play things ... (no much)
+   🎶  I play something (a music thing) ...
 
  <br /><br /> <br /><br />
 
