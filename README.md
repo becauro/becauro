@@ -1,12 +1,12 @@
-### printf("Hi ...\n")
+### Hello, things !
 
- 🤝  I like the Open-source world
+ 🤝  I like open source things ...
  
- :heart: I love Technology and discover new things
+ :heart: I love to discover new things ...
 
-   🎶  I play music ...
+   🎶  I play things ... (no much)
 
-   ⚽  Fun fact: In the past I've really played soccer and volleyball as a hobby
+   ⚽  Fun fact: In the past I've played soccer ("this thing" was a hobby)
  <br /><br /> <br /><br />
 
 <div>
