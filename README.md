@@ -32,9 +32,10 @@
 <tr><td><b>Languages<b></td>
       <td> <!-- TODAY -->
          <ul>
-            <li>Java Script (ES6)</li>
-            <li>Python</li>
-            <li>C</li>
+            <li>Java Script</li>
+            <li>Python ("basic")</li>
+            <li>C ("basic")</li>
+            <li>Assembly x86 ("basic")</li>
          </ul>
       </td>
      <!-- <td>   YESTERDAY
