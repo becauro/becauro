@@ -45,7 +45,7 @@
       </td>  -->
       <td> <!-- FLIRTING -->
          <ul>
-            <li>Go</li>
+            <li>TODO</li>
          </ul>
       </td>
 </tr>
