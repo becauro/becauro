@@ -4,6 +4,11 @@
 
  🎶  I like: Web (backend), AI, decentralized  things (e.g. P2P , Blockchain etc), lowlevel world ...
 
+ 
+ I have a degree in Analysis and Development Systems. However, I consider myself self-taught because I continue to research and study various computer-related topics for many years. In fact, even during my school years, my mom encouraged me to take some technical courses. Thus, I enrolled in a Computer Course where I learned several programming languages (e.g., Delphi, VB6, Pascal, etc.) over three years.
+
+After finishing school, I had an internship where I got in touch with GNU/Linux for a while. Additionally, I have been passionate about music for many years. However, I decided to go to university to update my computer skills, which I had somewhat neglected due to my musical pursuits.
+
  <br /><br /> <br /><br />
 
 <div>
