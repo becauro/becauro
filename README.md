@@ -137,10 +137,11 @@ After finishing school, I had an internship where I got in touch with GNU/Linux 
       </ul>
    </td>
 </tr> -->
-<tr><td><b>Others</b></td>
+<tr><td><b>CYBERSECURITY</b></td>
    <td><!-- TODAY -->
       <ul>
-         <li>Cybersecurity concepts</li>
+         <li> Awareness</li>
+         <li> Malware Analysis (?🙃?)</li>
       </ul>
    </td>
   <!-- <td> YESTERDAY 
