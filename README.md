@@ -141,7 +141,7 @@ After finishing school, I had an internship where I got in touch with GNU/Linux 
    <td><!-- TODAY -->
       <ul>
          <li> Awareness</li>
-         <li> Malware Analysis (?🙃?)</li>
+         <li> Malware Analysis (?Loading?)</li>
       </ul>
    </td>
   <!-- <td> YESTERDAY 
